@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 s = "Hello"
-i = 3
+i = 4
 
 if len(s) == 0:
 	print("Empty String")
